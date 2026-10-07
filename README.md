@@ -1,7 +1,7 @@
 # WW92030-STORAGE
 ---
 
-I make things sometimes.
+I make things BY HAND sometimes.
 
 ---
 
