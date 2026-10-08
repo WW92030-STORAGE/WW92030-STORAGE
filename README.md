@@ -5,5 +5,9 @@ I make things sometimes. But everything I make is by hand.
 
 ---
 
+If you're looking for my VRChat protobean it's right here: https://github.com/WW92030-STORAGE/ASSETS/tree/main/VRC_BEAN
+
+---
+
 [![NormalExisting's GitHub stats](https://github-readme-stats.vercel.app/api?username=WW92030-STORAGE&show_icons=true&theme=synthwave)](https://github.com/WW92030-STORAGE/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WW92030-STORAGE&show_icons=true&theme=synthwave)](https://github.com/WW92030-STORAGE/github-readme-stats)
